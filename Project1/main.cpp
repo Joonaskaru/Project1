@@ -14,7 +14,7 @@ int main() {
 	cin >> x;
 	*/ 
 
-
+	
 	string y;
 
 	cout << "Sandwich type:";
@@ -24,6 +24,8 @@ int main() {
 
 	cout << "Press enter to exit... ";
 	getline(cin, y);
+	
+
 
 
 	return 0;
