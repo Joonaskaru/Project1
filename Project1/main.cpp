@@ -6,7 +6,7 @@ using namespace std;
 
 
 int main() {
-
+	/*
 	int x = 0;
 	int y(0);
 	int z{ 0 };
@@ -23,11 +23,34 @@ int main() {
 	auto over_9000 = INT_MAX;
 
 	cout << over_9000 << endl;
-
+	*/
 	// see rida on testiks
 
 
 	/*std::cout << "hello wordl";*/
+
+	
+/*
+	cout << sizeof(char) << endl;
+	cout << sizeof(int) << endl;
+	cout << sizeof(float) << endl;
+	cout << sizeof(double) << endl;
+	cout << sizeof(bool) << endl;
+
+	cout << ' ' << endl;
+
+	cout << sizeof(short int) << endl;
+	cout << sizeof(int) << endl;
+	cout << sizeof(long int) << endl;
+	cout << sizeof(long long int) << endl;
+*/
+
+	signed int y = -1;
+	unsigned int x = -1;
+
+	cout << y << endl;
+	cout << x << endl;
+
 
 
 	return 0;
